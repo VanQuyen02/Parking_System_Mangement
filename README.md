@@ -23,7 +23,7 @@ Bước 3: Chạy demo
 ```
 python gui.py
 ```
-Chú ý : Cần download model Yolov7 kèm weight của bài toán tại link sau: https://drive.google.com/drive/folders/1NNB0RkpR66DRctD-HGeYzYe2bL5Fak0L?usp=drive_link
+Chú ý : Cần download model Yolov7 kèm weight của bài toán tại link sau: [https://drive.google.com/drive/folders/1NNB0RkpR66DRctD-HGeYzYe2bL5Fak0L?usp=drive_link](https://drive.google.com/file/d/1BVgh8m6u7ucjNFmt1pHgtiJrMzkiHhbe/view?usp=sharing)
 ## 4. Kết quả Demo
 - Ảnh khi xe vào bãi
 ![image](https://github.com/VanQuyen02/Parking_System_Mangement/assets/95958989/04db91f4-9389-43ac-9fbf-033fe701ca8b)
